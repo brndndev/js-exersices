@@ -21,3 +21,5 @@ let string = "Total Characters"
 let stringLength=string.length
 
 console.log(stringLength)
+
+//Total chracters Count
