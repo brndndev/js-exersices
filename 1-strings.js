@@ -23,3 +23,4 @@ let stringLength=string.length
 console.log(stringLength)
 
 //Total chracters Count
+// the formula to determine the length of a string is "length" - 1
