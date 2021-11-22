@@ -1,0 +1,2 @@
+Syntax Errors ==> Errors with STRUCTURE of code and <i>NOT</i> logic
+
