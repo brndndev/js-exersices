@@ -1,9 +1,12 @@
 // Create a function that returns the sum of 2 numbers
-function sum(a,b) {
-    console.log("a+b")
-}
-sum(9+4)
 
+
+function add(x) {
+    return function(y) {
+        return x + y;
+    };
+}
+console.log(add(3)(7))
 
 
 // Create a function that returns the difference of 2 numbers
