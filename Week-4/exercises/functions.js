@@ -1,6 +1,8 @@
 // Create a function that returns the sum of 2 numbers
-
-
+function sum(a,b) {
+    console.log("a+b")
+}
+sum(9+4)
 
 
 

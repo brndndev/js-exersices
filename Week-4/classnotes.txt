@@ -1,2 +1,4 @@
 Syntax Errors ==> Errors with STRUCTURE of code and <i>NOT</i> logic
 
+JavaScript Functions and Events
+A JavaScript function is a block of JavaScript code, that can be executed when "called" for.
