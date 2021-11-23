@@ -35,3 +35,9 @@ console.log(math(7, 2))
 
 
 // Create a function that returns the quotient of 2 numbers
+
+function math(x, y) {
+    let sum = x / y
+    return sum
+}
+console.log(math(81, 9))
